@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vitor andes
 
 - 🎓Front-end student
-- 🖥 Studying html and css
+- 🖥 Studying Angular and Typescript
 
 <div align="center">
   <a href="https://github.com/VitorAndes">
