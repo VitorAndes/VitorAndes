@@ -1,7 +1,7 @@
-## Olá! Eu sou o Vitor andes
+## Olá! Eu sou o Vitor Andes
 
-- 🎓Front-end student
-- 🖥 Studying Angular and Typescript
+- 🎓Front-end developer
+- 🖥 React and Typescript
 
 <div align="center">
   <a href="https://github.com/VitorAndes">
@@ -10,11 +10,11 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-Angular" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
-  <img align="center" alt="Vitor-Java" height="30" width="40" src="https://www.svgrepo.com/download/184143/java.svg">
+  <img align="center" alt="Vitor-React" height="50" width="50" src="https://th.bing.com/th/id/OIP.dE4ObnWQ46TFJp-QbPAkMAAAAA?rs=1&pid=ImgDetMain">
+  <img align="center" alt="Vitor-TypeScript" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
+  <img align="center" alt="Vitor-JavaScript" height="50" width="50" src="https://www.computerhope.com/jargon/j/javascript.png">
+  <img align="center" alt="Vitor-Java" height="50" width="50" src="https://www.svgrepo.com/download/184143/java.svg">
+  <img align="center" alt="Vitor-Angular" height="50" width="50" src="https://www.svgrepo.com/show/452156/angular.svg">
 </div>
   <br>
 <div>
