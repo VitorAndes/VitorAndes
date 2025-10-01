@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/6b/78/c0/6b78c0f5ac3b45e3d27b80db877b6602.jpg" alt="banner discord" height="400px" width="100%" />
 </div>
 
-# Olá, me chamo Vitor - Desenvolvedor fullstack
+# Olá, me chamo Vitor - software developer
 
 | GitHub  | Tecnologias |
 |--------------|-------------|
