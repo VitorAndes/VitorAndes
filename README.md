@@ -4,9 +4,6 @@
 
 # Olá, me chamo Vitor - Desenvolvedor fullstack
 
-
-### Minhas principais stacks
-
 | GitHub  | Tecnologias |
 |--------------|-------------|
 | <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAndes&layout=compact&langs_count=7&theme=dracula"/> | <img height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> <img height="50" width="50" src="https://www.computerhope.com/jargon/j/javascript.png"> <img height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" /> |
