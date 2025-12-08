@@ -1,10 +1,19 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/6b/78/c0/6b78c0f5ac3b45e3d27b80db877b6602.jpg" alt="banner discord" height="400px" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFwfVwtisBpZg/profile-displaybackgroundimage-shrink_350_1400/B4DZckJQusG8AY-/0/1748658097633?e=1766620800&v=beta&t=HXF8FakrN-D9H4bHjYXj7l5w8fYG2scLCJXW7ep2EUg" alt="banner discord" height="250px" width="100%" " />
 </div>
 
-# Olá, me chamo Vitor - software developer
+### Olá, me chamo Vitor!
 
-| GitHub  | Tecnologias |
-|--------------|-------------|
-| <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAndes&layout=compact&langs_count=7&theme=dracula"/> | <img height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> <img height="50" width="50" src="https://www.computerhope.com/jargon/j/javascript.png"> <img height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" /> |
+Sobre mim:
+* 🖥️ Sou Full-stack Web Developer desde 2023
+* 📝 Javascript | NodeJs | React
+* 🚀 Sou moderador voluntário na [Rocketseat](https://app.rocketseat.com.br/)
 
+Linguagens e ferramentas:
+<div align="left">
+  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="javascript logo" width="50px" height="50px" />
+  <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="typescriptcript logo" width="50px" height="50px" />
+  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="Nodejs logo" width="50px" height="50px" />
+  <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="React logo" width="50px" height="50px" />
+  <img src="https://icon.icepanel.io/Technology/svg/Figma.svg" alt="Figma logo" width="50px" height="50px" />
+</div>
