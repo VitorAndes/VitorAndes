@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFwfVwtisBpZg/profile-displaybackgroundimage-shrink_350_1400/B4DZckJQusG8AY-/0/1748658097633?e=1769040000&v=beta&t=L0Wwc-VW_7GGVFahe9JNKa6188hDZVSmMm6h_cYBjyA" alt="banner discord" height="250px" width="100%" " />
+  <img src="https://i.imgur.com/ey7jD7W.jpeg" alt="banner linkedin" height="250px" width="100%" " />
 </div>
 
 ### Olá, me chamo Vitor!
