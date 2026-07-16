@@ -5,7 +5,7 @@
 ### Olá, me chamo Vitor!
 
 Sobre mim:
-* 🖥️ Sou Full-stack Web Developer desde 2023
+* 🖥️ Sou Front-End Web Developer desde 2023
 * 📝 Javascript | NodeJs | React
 * 🚀 Sou moderador voluntário na [Rocketseat](https://app.rocketseat.com.br/)
 
